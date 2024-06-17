@@ -1,2 +1,2 @@
 # html-portfolio
-I created my firts project "My Resume"
+I created my first project "My Resume"
