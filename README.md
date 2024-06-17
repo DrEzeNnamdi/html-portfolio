@@ -1,2 +1,2 @@
 # html-portfolio
-learning how to code
+I created my firts project "My Resume"
